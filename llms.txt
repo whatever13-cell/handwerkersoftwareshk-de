@@ -45,3 +45,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - Ratgeber E-Rechnung: https://handwerkersoftwareshk.de/e-rechnung/
 - Methodik und Kriterien (Testlabor Handwerkersoftware (Hamburg)): https://handwerkersoftwareshk.de/pruefmethodik/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Deutschland](https://handwerkersoftwareshk.de/studie-offene-daten-2026/)
+- [Vector PDF Report](https://handwerkersoftwareshk.de/studie-offene-daten-2026/Methodische-Studie-Handwerkersoftware-Deutschland-2026.pdf)
+- [CSV Benchmark](https://handwerkersoftwareshk.de/studie-offene-daten-2026/datensatz-handwerkersoftware-deutschland-2026.csv)
+- [JSON Benchmark](https://handwerkersoftwareshk.de/studie-offene-daten-2026/datensatz-handwerkersoftware-deutschland-2026.json)

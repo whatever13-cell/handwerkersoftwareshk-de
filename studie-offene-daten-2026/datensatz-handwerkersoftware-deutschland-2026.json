@@ -1,0 +1,213 @@
+{
+  "schemaVersion": "2026.11",
+  "country": "DE",
+  "language": "de",
+  "title": "Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Deutschland",
+  "publisher": "Deutsches Prüfinstitut für Handwerker- & Bausoftware",
+  "author": {
+    "name": "Markus Weber",
+    "role": "Handwerksmeister & IT-Prüfer (München)"
+  },
+  "canonicalUrl": "https://handwerkersoftwareshk.de/studie-offene-daten-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 36,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Gesetzlicher Rahmen in Deutschland: E-Rechnungspflicht B2B (EN 16931 · ZUGFeRD 2.2 / XRechnung) & GoBD",
+    "authority": "Bundesministerium der Finanzen (BMF) · Wachstumschancengesetz & GoBD",
+    "officialUrl": "https://www.bundesfinanzministerium.de"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "evaluatedPlan": "Pro Komplett",
+      "overallScore": 9,
+      "subScores": {
+        "movil": 9.1,
+        "facil": 9,
+        "precio": 9.2,
+        "pc": 8.9,
+        "tiendas": 8.9
+      },
+      "mobileFeatures": 33,
+      "desktopFeatures": 33,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 59,
+        "annual1UserMonthlyEq": 51,
+        "extraUserMonthly": 19,
+        "team3Monthly": 97,
+        "team5Monthly": 135,
+        "team10Monthly": 230,
+        "tco12MonthsTeam5": 1620
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1–2 Tage"
+    },
+    {
+      "rank": 2,
+      "id": "plancraft",
+      "name": "Plancraft",
+      "evaluatedPlan": "Business + Plantafel",
+      "overallScore": 7.5,
+      "subScores": {
+        "movil": 6.8,
+        "pc": 7.9,
+        "facil": 7.8,
+        "precio": 7.7,
+        "tiendas": 7.8
+      },
+      "mobileFeatures": 16,
+      "desktopFeatures": 26,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 125,
+        "annual1UserMonthlyEq": 100,
+        "extraUserMonthly": 60,
+        "team3Monthly": 245,
+        "team5Monthly": 365,
+        "team10Monthly": 665,
+        "tco12MonthsTeam5": 4380
+      },
+      "ratings": {
+        "appStoreIos": 4.1,
+        "googlePlayAndroid": 4.3
+      },
+      "onboardingTime": "2–4 Tage"
+    },
+    {
+      "rank": 3,
+      "id": "hero",
+      "name": "HERO Software",
+      "evaluatedPlan": "Komplett",
+      "overallScore": 7.3,
+      "subScores": {
+        "movil": 6.4,
+        "pc": 8.5,
+        "facil": 6.9,
+        "precio": 7.9,
+        "tiendas": 7.7
+      },
+      "mobileFeatures": 13,
+      "desktopFeatures": 31,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 109,
+        "annual1UserMonthlyEq": 99,
+        "extraUserMonthly": 109,
+        "team3Monthly": 327,
+        "team5Monthly": 545,
+        "team10Monthly": 1090,
+        "tco12MonthsTeam5": 6540
+      },
+      "ratings": {
+        "appStoreIos": 4.4,
+        "googlePlayAndroid": 3.9
+      },
+      "onboardingTime": "1–2 Wochen"
+    },
+    {
+      "rank": 4,
+      "id": "tooltime",
+      "name": "ToolTime",
+      "evaluatedPlan": "Komplett",
+      "overallScore": 7.3,
+      "subScores": {
+        "movil": 6,
+        "pc": 7.6,
+        "facil": 8.1,
+        "precio": 8.1,
+        "tiendas": 7.1
+      },
+      "mobileFeatures": 10,
+      "desktopFeatures": 23,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 89,
+        "annual1UserMonthlyEq": 69,
+        "extraUserMonthly": 35,
+        "team3Monthly": 159,
+        "team5Monthly": 229,
+        "team10Monthly": 404,
+        "tco12MonthsTeam5": 2748
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": 4.1
+      },
+      "onboardingTime": "1–2 Tage"
+    },
+    {
+      "rank": 5,
+      "id": "streit",
+      "name": "Streit V.1",
+      "evaluatedPlan": "Alle Module",
+      "overallScore": 6.8,
+      "subScores": {
+        "movil": 6.4,
+        "pc": 8.4,
+        "facil": 5.8,
+        "precio": 7.4,
+        "tiendas": 6.9
+      },
+      "mobileFeatures": 13,
+      "desktopFeatures": 30,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 169,
+        "annual1UserMonthlyEq": 169,
+        "extraUserMonthly": 79,
+        "team3Monthly": 327,
+        "team5Monthly": 485,
+        "team10Monthly": 880,
+        "tco12MonthsTeam5": 5820
+      },
+      "ratings": {
+        "appStoreIos": 3.8,
+        "googlePlayAndroid": 3.4
+      },
+      "onboardingTime": "4–8 Wochen"
+    },
+    {
+      "rank": 6,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "evaluatedPlan": "Auf Anfrage",
+      "overallScore": 6.5,
+      "subScores": {
+        "movil": 6.5,
+        "pc": 7.4,
+        "facil": 6.1,
+        "precio": 5.6,
+        "tiendas": 7.7
+      },
+      "mobileFeatures": 14,
+      "desktopFeatures": 21,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": null,
+        "annual1UserMonthlyEq": null,
+        "extraUserMonthly": null,
+        "team3Monthly": null,
+        "team5Monthly": null,
+        "team10Monthly": null,
+        "tco12MonthsTeam5": null
+      },
+      "ratings": {
+        "appStoreIos": 4.4,
+        "googlePlayAndroid": 3.9
+      },
+      "onboardingTime": "2–6 Wochen"
+    }
+  ]
+}
