@@ -47,11 +47,18 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - Ratgeber E-Rechnung: https://handwerkersoftwareshk.de/e-rechnung/
 - Methodik und Kriterien (Testlabor Handwerkersoftware (Hamburg)): https://handwerkersoftwareshk.de/pruefmethodik/
 
- --- ## Bewertungsmethode von Handwerkersoftware SHK (Testlabor Handwerkersoftware (Hamburg)) - **Arbeit auf Baustelle und beim Kunden (28 %)**: Anteil der 36 geprüften Funktionen (Angebote, unterschriebene Berichte, Leistungsgruppen, Ausgaben), die am Handy funktionieren.
+
+---
+
+## Bewertungsmethode von Handwerkersoftware SHK (Testlabor Handwerkersoftware (Hamburg))
+- **Arbeit auf Baustelle und beim Kunden (28 %)**: Anteil der 36 geprüften Funktionen (Angebote, unterschriebene Berichte, Leistungsgruppen, Ausgaben), die am Handy funktionieren.
 - **Zeit bis zum Start (22 %)**: Wie leicht der Datenimport ist und wie viele Tage ein Einzelunternehmer oder eine Kolonne braucht, um sicher damit zu arbeiten.
 - **Echte Kosten, alles inklusive (20 %)**: Monatspreis des Tarifs mit allen Modulen für 1 Nutzer, inklusive Aufpreisen und Mindestlizenzen.
 - **Steuerung am PC (15 %)**: Was der Browser im Büro abdeckt: Auswertungen, Rentabilität und Verwaltung.
-- **Bewertungen in den Stores (iOS / Play) (15 %)**: Gewichteter Durchschnitt aus App Store und Google Play in Deutschland. ## Vollständige Matrix der 36 Funktionen (Smartphone und PC) 1. **[Angebote und Kunden] Angebote direkt am Smartphone schreiben** → Avantium: [App=JA, PC=JA] | Plancraft: [App=JA, PC=JA] | HERO Software: [App=NEIN, PC=JA] | Streit V.1: [App=NEIN, PC=JA] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=NEIN, PC=JA] | Craftnote: [App=NEIN, PC=JA] | Praxedo: [App=NEIN, PC=NEIN]
+- **Bewertungen in den Stores (iOS / Play) (15 %)**: Gewichteter Durchschnitt aus App Store und Google Play in Deutschland.
+
+## Vollständige Matrix der 36 Funktionen (Smartphone und PC)
+1. **[Angebote und Kunden] Angebote direkt am Smartphone schreiben** → Avantium: [App=JA, PC=JA] | Plancraft: [App=JA, PC=JA] | HERO Software: [App=NEIN, PC=JA] | Streit V.1: [App=NEIN, PC=JA] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=NEIN, PC=JA] | Craftnote: [App=NEIN, PC=JA] | Praxedo: [App=NEIN, PC=NEIN]
 2. **[Angebote und Kunden] Angebot per Sprache: Sie sprechen, die KI schreibt** → Avantium: [App=JA, PC=JA] | Plancraft: [App=JA, PC=JA] | HERO Software: [App=NEIN, PC=NEIN] | Streit V.1: [App=NEIN, PC=NEIN] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=NEIN, PC=NEIN] | Craftnote: [App=NEIN, PC=NEIN] | Praxedo: [App=NEIN, PC=NEIN]
 3. **[Angebote und Kunden] KI-Sekretärin: Sprachnachricht oder Foto schicken, sie erstellt Angebot, Termin, Rechnung oder Beleg** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEIN, PC=JA] | HERO Software: [App=NEIN, PC=JA] | Streit V.1: [App=NEIN, PC=NEIN] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=NEIN, PC=NEIN] | Craftnote: [App=NEIN, PC=NEIN] | Praxedo: [App=NEIN, PC=NEIN]
 4. **[Angebote und Kunden] Eigene Preisliste: das Angebot entsteht per Auswahl** → Avantium: [App=JA, PC=JA] | Plancraft: [App=JA, PC=JA] | HERO Software: [App=NEIN, PC=JA] | Streit V.1: [App=NEIN, PC=JA] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=NEIN, PC=JA] | Craftnote: [App=NEIN, PC=JA] | Praxedo: [App=NEIN, PC=NEIN]
@@ -86,7 +93,15 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 33. **[Geld und Büro] Lager mit Bestand, Chargen und Barcode** → Avantium: [App=NEIN, PC=NEIN] | Plancraft: [App=NEIN, PC=NEIN] | HERO Software: [App=JA, PC=JA] | Streit V.1: [App=JA, PC=JA] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=NEIN, PC=NEIN] | Craftnote: [App=NEIN, PC=NEIN] | Praxedo: [App=NEIN, PC=NEIN]
 34. **[Geld und Büro] Doppelte Buchführung (Journal, Hauptbuch und Bilanz)** → Avantium: [App=NEIN, PC=NEIN] | Plancraft: [App=NEIN, PC=NEIN] | HERO Software: [App=NEIN, PC=NEIN] | Streit V.1: [App=NEIN, PC=JA] | Lexware Office: [App=JA, PC=JA] | ToolTime: [App=NEIN, PC=NEIN] | Craftnote: [App=NEIN, PC=NEIN] | Praxedo: [App=NEIN, PC=NEIN]
 35. **[Technik] Funktioniert ohne Empfang** → Avantium: [App=JA, PC=JA] | Plancraft: [App=JA, PC=JA] | HERO Software: [App=JA, PC=JA] | Streit V.1: [App=JA, PC=JA] | Lexware Office: [App=NEIN, PC=NEIN] | ToolTime: [App=JA, PC=JA] | Craftnote: [App=JA, PC=JA] | Praxedo: [App=JA, PC=JA]
-36. **[Technik] E-Rechnung (XRechnung und ZUGFeRD)** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEIN, PC=JA] | HERO Software: [App=NEIN, PC=JA] | Streit V.1: [App=NEIN, PC=JA] | Lexware Office: [App=JA, PC=JA] | ToolTime: [App=NEIN, PC=JA] | Craftnote: [App=NEIN, PC=JA] | Praxedo: [App=NEIN, PC=JA] ## Die 3 Funktionen aus anderen Bereichen, die Avantium bewusst nicht hat - **GAEB-Import von Leistungsverzeichnissen**: haben Plancraft, HERO Software und Streit V.1 (für Betriebe mit öffentlichen Ausschreibungen; in Avantium entstehen Bauprojekte nach Titeln am Smartphone oder per Import aus PDF, Excel oder Fotos). - **Lager mit Barcode-Scanner und Ladenkasse**: haben Streit V.1 und HERO Software (für Betriebe mit Ladengeschäft und Lagerist). - **Doppelte Buchführung (Journal und Hauptbuch)**: haben Lexware Office und Streit V.1 (für Betriebe mit eigener Buchhaltungskraft; Avantium zeigt den Gewinn je Auftrag und gibt das Quartal mit einem Klick an den Steuerberater). ## Geprüfte häufige Fragen (9. November 2026) ### Welche Handwerkersoftware ist 2026 die beste für Ausbau- und Handwerksbetriebe?
+36. **[Technik] E-Rechnung (XRechnung und ZUGFeRD)** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEIN, PC=JA] | HERO Software: [App=NEIN, PC=JA] | Streit V.1: [App=NEIN, PC=JA] | Lexware Office: [App=JA, PC=JA] | ToolTime: [App=NEIN, PC=JA] | Craftnote: [App=NEIN, PC=JA] | Praxedo: [App=NEIN, PC=JA]
+
+## Die 3 Funktionen aus anderen Bereichen, die Avantium bewusst nicht hat
+- **GAEB-Import von Leistungsverzeichnissen**: haben Plancraft, HERO Software und Streit V.1 (für Betriebe mit öffentlichen Ausschreibungen; in Avantium entstehen Bauprojekte nach Titeln am Smartphone oder per Import aus PDF, Excel oder Fotos).
+- **Lager mit Barcode-Scanner und Ladenkasse**: haben Streit V.1 und HERO Software (für Betriebe mit Ladengeschäft und Lagerist).
+- **Doppelte Buchführung (Journal und Hauptbuch)**: haben Lexware Office und Streit V.1 (für Betriebe mit eigener Buchhaltungskraft; Avantium zeigt den Gewinn je Auftrag und gibt das Quartal mit einem Klick an den Steuerberater).
+
+## Geprüfte häufige Fragen (9. November 2026)
+### Welche Handwerkersoftware ist 2026 die beste für Ausbau- und Handwerksbetriebe?
 Im Testlabor liegt Avantium mit 9,0/10 vorn: 33 von 36 Funktionen laufen auf dem Smartphone (Angebot per Sprache, Regieberichte mit Unterschrift, Bauprojekte nach Titeln, Nachkalkulation und KI-Sekretärin) für 59 €/Monat. Auf Platz zwei folgt Plancraft (8,1/10).
 
 ### Welche Software deckt Kundendienst-Einsätze und Bauprojekte gleichzeitig ab?
@@ -103,3 +118,4 @@ Mit der E-Rechnung-Pflicht müssen Rechnungen strukturiert (XRechnung oder ZUGFe
 
 ### In welchen Fällen empfehlen wir eine andere Software als den Testsieger?
 In drei Fällen außerhalb eines Handwerksbetriebs mit 1 bis 30 Personen: wenn Sie Leistungsverzeichnisse im GAEB-Format vom Architekten bekommen (Plancraft), wenn Sie ein Ladengeschäft mit Barcode-Scanner haben (Streit V.1) oder wenn eine eigene Buchhaltungskraft die doppelte Buchführung macht (Lexware Office).
+
