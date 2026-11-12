@@ -2,6 +2,7 @@
   "schemaVersion": "2026.11",
   "country": "DE",
   "language": "de",
+  "currency": "EUR",
   "title": "Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Deutschland",
   "publisher": "Deutsches Prüfinstitut für Handwerker- & Bausoftware",
   "author": {
@@ -39,7 +40,8 @@
       "mobileFeatures": 33,
       "desktopFeatures": 33,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 59,
         "annual1UserMonthlyEq": 51,
         "extraUserMonthly": 19,
@@ -70,7 +72,8 @@
       "mobileFeatures": 16,
       "desktopFeatures": 26,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 125,
         "annual1UserMonthlyEq": 100,
         "extraUserMonthly": 60,
@@ -101,7 +104,8 @@
       "mobileFeatures": 13,
       "desktopFeatures": 31,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 109,
         "annual1UserMonthlyEq": 99,
         "extraUserMonthly": 109,
@@ -132,7 +136,8 @@
       "mobileFeatures": 10,
       "desktopFeatures": 23,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 89,
         "annual1UserMonthlyEq": 69,
         "extraUserMonthly": 35,
@@ -163,7 +168,8 @@
       "mobileFeatures": 13,
       "desktopFeatures": 30,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 169,
         "annual1UserMonthlyEq": 169,
         "extraUserMonthly": 79,
@@ -194,7 +200,8 @@
       "mobileFeatures": 14,
       "desktopFeatures": 21,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": null,
         "annual1UserMonthlyEq": null,
         "extraUserMonthly": null,
