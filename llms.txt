@@ -105,6 +105,14 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 
 - [Craftnote](https://handwerkersoftwareshk.de/software/craftnote/): Baustellen-App und Büro je Nutzer
 - [openHandwerk](https://handwerkersoftwareshk.de/software/openhandwerk/): Cloud-Software je Nutzer und Laufzeit
+- [Aufmaß-App](https://handwerkersoftwareshk.de/software/aufmass-app/): Vom Aufmaß vor Ort zum Angebot
+- [Baustellen-App](https://handwerkersoftwareshk.de/software/baustellen-app/): Team, Termine und Zeiten auf allen Baustellen
+- [Bautagebuch-App](https://handwerkersoftwareshk.de/software/bautagebuch-app/): Dokumentation am Auftrag, auch offline
+- [ERP für das Handwerk](https://handwerkersoftwareshk.de/software/erp-handwerk/): Lager, Buchhaltung, Ausschreibungen
+- [Handwerker-App](https://handwerkersoftwareshk.de/software/handwerker-app/): Was die App auf der Baustelle kann
+- [Software für Dachdecker](https://handwerkersoftwareshk.de/software/software-dachdecker/): Aufmaß, Abschläge, Zeiten
+- [Software für Fliesenleger](https://handwerkersoftwareshk.de/software/software-fliesenleger/): Aufmaß, Angebot, Preisliste, Abschläge
+- [Software für Zimmerer](https://handwerkersoftwareshk.de/software/software-zimmerer/): Projekte, Abschläge, GAEB, Marge
 - [TAIFUN](https://handwerkersoftwareshk.de/software/taifun/): Kaufmännische Software, Preis auf Anfrage
 - [Zeiterfassung mit GPS](https://handwerkersoftwareshk.de/zeiterfassung-gps-handwerk/): Programme, die es am Handy können
 - [Belege auf der Baustelle scannen](https://handwerkersoftwareshk.de/belege-scannen-baustelle/): Programme, die Belege lesen
