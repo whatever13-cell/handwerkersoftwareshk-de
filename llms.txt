@@ -117,6 +117,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Wärmepumpe Kosten](https://handwerkersoftwareshk.de/preise/waermepumpe-kosten/): Preis der Hersteller, Förderung und Strom
 - [Photovoltaik Kosten](https://handwerkersoftwareshk.de/preise/photovoltaik-kosten/): Preis je kWp nach Anlagengröße, mit Speicher
 - [Wallbox Installation Kosten](https://handwerkersoftwareshk.de/preise/wallbox-installation-kosten/): Gerät, Installation und Extras
+- [Gehalt Fliesenleger](https://handwerkersoftwareshk.de/preise/gehalt-fliesenleger/): Median nach Bundesland, amtlich
+- [Gehalt im Handwerk](https://handwerkersoftwareshk.de/preise/gehalt-handwerk/): 8 Gewerke nebeneinander, amtlich
+- [Gehalt Zimmerer](https://handwerkersoftwareshk.de/preise/gehalt-zimmerer/): Median nach Bundesland, amtlich
 
 ### Tarife
 
