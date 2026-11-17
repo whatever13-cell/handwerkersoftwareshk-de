@@ -120,6 +120,10 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Gehalt Fliesenleger](https://handwerkersoftwareshk.de/preise/gehalt-fliesenleger/): Median nach Bundesland, amtlich
 - [Gehalt im Handwerk](https://handwerkersoftwareshk.de/preise/gehalt-handwerk/): 8 Gewerke nebeneinander, amtlich
 - [Gehalt Zimmerer](https://handwerkersoftwareshk.de/preise/gehalt-zimmerer/): Median nach Bundesland, amtlich
+- [Stundensatz Elektriker](https://handwerkersoftwareshk.de/preise/stundensatz-elektriker/): Vom Lohn bis zum Verrechnungssatz
+- [Stundensatz Fliesenleger](https://handwerkersoftwareshk.de/preise/stundensatz-fliesenleger/): Vom Lohn bis zum Verrechnungssatz
+- [Stundensatz Installateur](https://handwerkersoftwareshk.de/preise/stundensatz-installateur/): Vom Lohn bis zum Verrechnungssatz
+- [Stundensatz Trockenbauer](https://handwerkersoftwareshk.de/preise/stundensatz-trockenbauer/): Vom Lohn bis zum Verrechnungssatz
 
 ### Tarife
 
