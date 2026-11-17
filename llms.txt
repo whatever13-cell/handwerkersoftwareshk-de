@@ -179,6 +179,11 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Gerichtliches Mahnverfahren](https://handwerkersoftwareshk.de/betrieb/mahnverfahren/): Kosten und Ablauf bei offener Rechnung
 - [Kostenvoranschlag überschreiten](https://handwerkersoftwareshk.de/betrieb/kostenvoranschlag-ueberschreiten/): Was erlaubt ist und was du tun musst
 - [Selbstständig machen](https://handwerkersoftwareshk.de/betrieb/selbststaendig-machen/): Die Schritte mit Fristen
+- [Verjährung der Handwerkerrechnung](https://handwerkersoftwareshk.de/betrieb/verjaehrung-handwerkerrechnung/): Wann deine Forderung verjährt
+- [Abnahme nach VOB/B](https://handwerkersoftwareshk.de/betrieb/vob-abnahme/): Förmlich, fiktiv oder durch Benutzung
+- [Gewährleistung nach VOB/B](https://handwerkersoftwareshk.de/betrieb/vob-gewaehrleistung/): 4, 2 oder 1 Jahr, mit Fristrechner
+- [Nachtrag nach VOB/B](https://handwerkersoftwareshk.de/betrieb/vob-nachtrag/): Vom Fall zur richtigen Anzeige
+- [Schlussrechnung nach VOB/B](https://handwerkersoftwareshk.de/betrieb/vob-schlussrechnung/): Einreichen, Fälligkeit, Vorbehalt
 
 ### Förderung
 
