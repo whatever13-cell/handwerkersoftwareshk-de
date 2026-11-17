@@ -134,7 +134,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Mindestentgelt Elektrohandwerk](https://handwerkersoftwareshk.de/tarife/tarifvertrag-elektrohandwerk/): 14,93 € bundesweit, bis 16,10 € 2028
 - [Mindestlohn Gebäudereinigung](https://handwerkersoftwareshk.de/tarife/mindestlohn-gebaeudereinigung/): 15,00 € und 18,40 € für Glas und Fassade
 - [Bautarif 2026](https://handwerkersoftwareshk.de/tarife/bautarif/): Lohntabelle und «Mindestlohn Bau»
+- [Tarifvertrag GaLaBau 2026](https://handwerkersoftwareshk.de/tarife/tarifvertrag-galabau/): Lohntabelle ab 1. Juli 2026
 - [Tarifvertrag SHK 2026](https://handwerkersoftwareshk.de/tarife/tarifvertrag-shk/): Was in deinem Land gilt
+- [Tarifvertrag Tischler 2026](https://handwerkersoftwareshk.de/tarife/tarifvertrag-tischler/): Löhne und Azubis nach Land
 
 ### Vorlagen
 
