@@ -207,6 +207,7 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Marktstammdatenregister](https://handwerkersoftwareshk.de/pflichten/marktstammdatenregister/): Ein Monat Frist, und was Verspätung kostet
 - [Installateurverzeichnis](https://handwerkersoftwareshk.de/pflichten/installateurverzeichnis/): Wann der Elektriker eingetragen sein muss
 - [Baustellenverordnung](https://handwerkersoftwareshk.de/pflichten/baustellenverordnung/): Vorankündigung, SiGe-Plan und Koordinator
+- [Unfallanzeige BG BAU](https://handwerkersoftwareshk.de/pflichten/bg-bau-unfallanzeige/): Ob du melden musst und bis wann
 - [E-CHECK](https://handwerkersoftwareshk.de/pflichten/e-check/): Pflicht oder freiwillig, und welche Norm
 
 ### Normen
@@ -216,6 +217,7 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [FI-Schalter-Pflicht](https://handwerkersoftwareshk.de/normen/fi-schalter-pflicht/): Welche Stromkreise einen RCD brauchen
 - [Trinkwasserverordnung](https://handwerkersoftwareshk.de/normen/trinkwasserverordnung/): Was den SHK-Betrieb betrifft, mit Bleileitungen
 - [DIN 18015](https://handwerkersoftwareshk.de/normen/din-18015/): Teile, Installationszonen, Vorzugshöhen
+- [DIN 18202 Toleranzen](https://handwerkersoftwareshk.de/normen/din-18202/): Ebenheit prüfen mit deinem Messwert
 - [DIN VDE 0105-100](https://handwerkersoftwareshk.de/normen/vde-0105-100/): Betrieb, fünf Sicherheitsregeln, Prüfung
 - [VDE 0701 und VDE 0702](https://handwerkersoftwareshk.de/normen/vde-0701-0702/): Geräteprüfung: Schritte und Grenzwerte
 - [Ratgeber E-Rechnung](https://handwerkersoftwareshk.de/e-rechnung/): Welche Programme sie können und was sich ändert
