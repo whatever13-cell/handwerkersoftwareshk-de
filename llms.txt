@@ -218,9 +218,12 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [FI-Schalter-Pflicht](https://handwerkersoftwareshk.de/normen/fi-schalter-pflicht/): Welche Stromkreise einen RCD brauchen
 - [Trinkwasserverordnung](https://handwerkersoftwareshk.de/normen/trinkwasserverordnung/): Was den SHK-Betrieb betrifft, mit Bleileitungen
 - [DIN 18015](https://handwerkersoftwareshk.de/normen/din-18015/): Teile, Installationszonen, Vorzugshöhen
+- [DIN 18017-3](https://handwerkersoftwareshk.de/normen/din-18017-3/): Bad ohne Fenster lüften
 - [DIN 18202 Toleranzen](https://handwerkersoftwareshk.de/normen/din-18202/): Ebenheit prüfen mit deinem Messwert
+- [DIN 18560](https://handwerkersoftwareshk.de/normen/din-18560/): Estrich: Dicke und Belegreife
 - [DIN VDE 0105-100](https://handwerkersoftwareshk.de/normen/vde-0105-100/): Betrieb, fünf Sicherheitsregeln, Prüfung
 - [VDE 0701 und VDE 0702](https://handwerkersoftwareshk.de/normen/vde-0701-0702/): Geräteprüfung: Schritte und Grenzwerte
+- [DIN VDE 1000-10](https://handwerkersoftwareshk.de/normen/vde-1000-10/): Elektrofachkraft, EuP und VEFK
 
 ### Weiterbildung
 
