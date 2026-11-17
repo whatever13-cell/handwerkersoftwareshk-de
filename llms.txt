@@ -114,9 +114,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Gehalt Dachdecker](https://handwerkersoftwareshk.de/preise/gehalt-dachdecker/): Median nach Bundesland, amtlich
 - [Gehalt Maurer](https://handwerkersoftwareshk.de/preise/gehalt-maurer/): Median nach Bundesland, amtlich
 - [Gehalt Maler und Lackierer](https://handwerkersoftwareshk.de/preise/gehalt-maler/): Median nach Bundesland, amtlich
-- [Wärmepumpe Kosten](https://handwerkersoftwareshk.de/preise/waermepumpe-kosten/): Preis der Hersteller, Förderung und Strom
-- [Photovoltaik Kosten](https://handwerkersoftwareshk.de/preise/photovoltaik-kosten/): Preis je kWp nach Anlagengröße, mit Speicher
-- [Wallbox Installation Kosten](https://handwerkersoftwareshk.de/preise/wallbox-installation-kosten/): Gerät, Installation und Extras
+- [Wärmepumpe Kosten](https://handwerkersoftwareshk.de/vorlagen/klima-waermepumpen/): Preis der Hersteller, Förderung und Strom
+- [Photovoltaik Kosten](https://handwerkersoftwareshk.de/vorlagen/photovoltaik/): Preis je kWp nach Anlagengröße, mit Speicher
+- [Wallbox Installation Kosten](https://handwerkersoftwareshk.de/vorlagen/elektriker/): Gerät, Installation und Extras
 - [Gehalt Fliesenleger](https://handwerkersoftwareshk.de/preise/gehalt-fliesenleger/): Median nach Bundesland, amtlich
 - [Gehalt im Handwerk](https://handwerkersoftwareshk.de/preise/gehalt-handwerk/): 8 Gewerke nebeneinander, amtlich
 - [Gehalt Zimmerer](https://handwerkersoftwareshk.de/preise/gehalt-zimmerer/): Median nach Bundesland, amtlich
@@ -191,13 +191,13 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 
 ### Förderung
 
-- [KfW 458: Heizungsförderung](https://handwerkersoftwareshk.de/foerderung/kfw-458/): Bis 80 %, die Boni 2026 gerechnet
-- [BAFA Einzelmaßnahmen](https://handwerkersoftwareshk.de/foerderung/bafa-einzelmassnahmen/): 15 % für Dämmung und Fenster, iSFP-Bonus ab 30.000 €
-- [KfW 261: Sanierungskredit](https://handwerkersoftwareshk.de/foerderung/kfw-261/): Tilgungszuschuss je Effizienzhaus-Stufe
-- [iSFP-Bonus](https://handwerkersoftwareshk.de/foerderung/isfp-bonus/): Was der Sanierungsfahrplan dem Kunden bringt
-- [§ 35c EStG](https://handwerkersoftwareshk.de/foerderung/35c-estg/): Sanierung von der Steuer absetzen
-- [Photovoltaik Förderung 2026](https://handwerkersoftwareshk.de/foerderung/photovoltaik-foerderung/): Einspeisevergütung, 0 % USt, steuerfrei
-- [Förderung Fenster](https://handwerkersoftwareshk.de/foerderung/foerderung-fenster/): BAFA oder § 35c, und was der Fensterbauer liefert
+- [KfW 458: Heizungsförderung](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/kfw-458/): Bis 80 %, die Boni 2026 gerechnet
+- [BAFA Einzelmaßnahmen](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/bafa-einzelmassnahmen/): 15 % für Dämmung und Fenster, iSFP-Bonus ab 30.000 €
+- [KfW 261: Sanierungskredit](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/kfw-261/): Tilgungszuschuss je Effizienzhaus-Stufe
+- [iSFP-Bonus](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/isfp-bonus/): Was der Sanierungsfahrplan dem Kunden bringt
+- [§ 35c EStG](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/35c-estg/): Sanierung von der Steuer absetzen
+- [Photovoltaik Förderung 2026](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/photovoltaik-foerderung/): Einspeisevergütung, 0 % USt, steuerfrei
+- [Förderung Fenster](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/foerderung-fenster/): BAFA oder § 35c, und was der Fensterbauer liefert
 
 ### Pflichten
 
