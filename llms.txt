@@ -129,6 +129,8 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Mindestlohn Maler](https://handwerkersoftwareshk.de/tarife/mindestlohn-maler/): 16,13 € für Gesellen, Ungelernte nach Gesetz
 - [Mindestentgelt Elektrohandwerk](https://handwerkersoftwareshk.de/tarife/tarifvertrag-elektrohandwerk/): 14,93 € bundesweit, bis 16,10 € 2028
 - [Mindestlohn Gebäudereinigung](https://handwerkersoftwareshk.de/tarife/mindestlohn-gebaeudereinigung/): 15,00 € und 18,40 € für Glas und Fassade
+- [Bautarif 2026](https://handwerkersoftwareshk.de/tarife/bautarif/): Lohntabelle und «Mindestlohn Bau»
+- [Tarifvertrag SHK 2026](https://handwerkersoftwareshk.de/tarife/tarifvertrag-shk/): Was in deinem Land gilt
 
 ### Vorlagen
 
