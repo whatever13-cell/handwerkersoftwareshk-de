@@ -191,13 +191,6 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 
 ### Förderung
 
-- [KfW 458: Heizungsförderung](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/kfw-458/): Bis 80 %, die Boni 2026 gerechnet
-- [BAFA Einzelmaßnahmen](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/bafa-einzelmassnahmen/): 15 % für Dämmung und Fenster, iSFP-Bonus ab 30.000 €
-- [KfW 261: Sanierungskredit](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/kfw-261/): Tilgungszuschuss je Effizienzhaus-Stufe
-- [iSFP-Bonus](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/isfp-bonus/): Was der Sanierungsfahrplan dem Kunden bringt
-- [§ 35c EStG](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/35c-estg/): Sanierung von der Steuer absetzen
-- [Photovoltaik Förderung 2026](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/photovoltaik-foerderung/): Einspeisevergütung, 0 % USt, steuerfrei
-- [Förderung Fenster](https://handwerkersoftwareshk.de/steuern/handwerkerbonus-35a/foerderung-fenster/): BAFA oder § 35c, und was der Fensterbauer liefert
 
 ### Pflichten
 
